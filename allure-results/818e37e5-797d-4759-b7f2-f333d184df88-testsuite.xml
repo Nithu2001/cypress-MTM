@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1713768185753' stop='1713768193964'>
+    <name>Add MTM Threshold Filters</name>
+    <title>Add MTM Threshold Filters</title>
+    <test-cases>
+        <test-case start='1713768185754' status='failed' stop='1713768193924'>
+            <name>validating the select view type</name>
+            <title>validating the select view type</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 4000ms: Expected to find element: `#mat-select-0-panel`, but never found it.</message>
+                <stack-trace>AssertionError: Timed out retrying after 4000ms: Expected to find element: `#mat-select-0-panel`, but never found it.
+                    at Context.eval (webpack://mtm/./cypress/e2e/MTM_filters.cy.js:31:34)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

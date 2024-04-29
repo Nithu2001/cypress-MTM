@@ -1,0 +1,1 @@
+{"2d2db812f469cd484a823258f52154f3":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"f40ff918697b7e3c","status":"failed","statusDetails":"Timed out retrying after 4000ms: Expected to find element: `#mat-select-0-panel`, but never found it.","time":{"start":1713768185754,"stop":1713768193924,"duration":8170}}]}}
